@@ -1,5 +1,8 @@
 # lyric-based-music-genre-classifier
 
+Please follow link to download files:
+https://drive.google.com/drive/folders/1SUxz_Q5Teit1OVpJH8ZB6lnCwqF5kGu4?usp=drive_link}
+
 Instructions for Team 157 Class Project:
 
 There are 2 main folders containing the 2 main projects. The folders are
